@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[amiralrouge]]></title>
         <description><![CDATA[amiralrouge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/amiralrouge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 16:56:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 17:00:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amiralrouge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da01cd21-2667-4e23-8bdd-56aeb58f7326.jpg">]]></description>
+            <link>https://thegrid.ai/amiralrouge/blu/index.html</link>
+            <guid isPermaLink="false">32fddcfb-a6d8-423b-89ea-318aac7a84b8</guid>
+            <pubDate>Fri, 10 Jun 2016 16:59:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b357505-de01-47d2-9170-10da20f51cc5.jpg">]]></description>
-            <link>undefinedvanessas-art-work/index.html</link>
+            <link>https://thegrid.ai/amiralrouge/vanessas-art-work/index.html</link>
             <guid isPermaLink="false">8e02cd76-0988-4449-82ad-7f75600ac482</guid>
             <pubDate>Fri, 10 Jun 2016 16:56:11 GMT</pubDate>
         </item>
